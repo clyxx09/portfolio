@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3eba7891.css",
+    "main.js": "/portfolio/static/js/main.c7ae9522.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.png": "/portfolio/static/media/home-main.c27d9d2a00347f85ba6b.png",
+    "static/media/vrs.png": "/portfolio/static/media/vrs.de5110fd661c19e4d22f.png",
+    "static/media/shoe.png": "/portfolio/static/media/shoe.c489a484eb411ad97316.png",
+    "static/media/clyderesume.pdf": "/portfolio/static/media/clyderesume.6acd466dae7fbf2842db.pdf",
+    "static/media/cc1.png": "/portfolio/static/media/cc1.95ac3748d67cf37212f6.png",
+    "static/media/about.jpg": "/portfolio/static/media/about.ce1d70cc2b62991cc09b.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.530878ebf791a4548d0e73ac4f238254.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.eb0b9ee9cf3688eabcab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.3eba7891.css.map": "/portfolio/static/css/main.3eba7891.css.map",
+    "main.c7ae9522.js.map": "/portfolio/static/js/main.c7ae9522.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eba7891.css",
+    "static/js/main.c7ae9522.js"
+  ]
+}
