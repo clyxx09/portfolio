@@ -723,3 +723,10 @@ button:focus {
   width: 65%;
   border-radius: 20px;
 }
+
+@media (max-width: 600px) {
+  .img-flued {
+    padding-top: 2em !important;
+    padding-bottom: 2em !important;
+  }
+}
